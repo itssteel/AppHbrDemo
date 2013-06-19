@@ -12,7 +12,7 @@ Public Class Mentors
 
     Function DisplayMentorList() As DataSet
         'Dim sql As String = "select distinct Top 30 [SenderEmail] Mentors from [TTSLSMS].[dbo].[V_SMS]"
-        Dim sql As String = "select GETDATE()"
+        Dim sql As String = "select '1','Mrinal K Pal' union select '2','Swati Verma' union select '3','Sonal Raghuvanshi'"
         ' select [SenderEmail] from [TTSLSMS].[dbo].[V_SMS] where Row_number between 1 and 30
         Dim dt As New DataTable
         'Using smsconn As New SqlConnection(ConfigurationManager.ConnectionStrings("CNS_SMSTEST").ConnectionString.ToString.Trim)
