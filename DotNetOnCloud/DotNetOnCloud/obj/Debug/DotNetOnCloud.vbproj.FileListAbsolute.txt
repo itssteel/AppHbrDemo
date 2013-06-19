@@ -1,0 +1,10 @@
+c:\documents and settings\153259\my documents\visual studio 2010\Projects\DotNetOnCloud\DotNetOnCloud\bin\DotNetOnCloud.dll
+c:\documents and settings\153259\my documents\visual studio 2010\Projects\DotNetOnCloud\DotNetOnCloud\bin\DotNetOnCloud.pdb
+c:\documents and settings\153259\my documents\visual studio 2010\Projects\DotNetOnCloud\DotNetOnCloud\bin\DotNetOnCloud.xml
+c:\documents and settings\153259\my documents\visual studio 2010\Projects\DotNetOnCloud\DotNetOnCloud\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\153259\my documents\visual studio 2010\Projects\DotNetOnCloud\DotNetOnCloud\obj\Debug\DotNetOnCloud.Resources.resources
+c:\documents and settings\153259\my documents\visual studio 2010\Projects\DotNetOnCloud\DotNetOnCloud\obj\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\153259\my documents\visual studio 2010\Projects\DotNetOnCloud\DotNetOnCloud\obj\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\153259\my documents\visual studio 2010\Projects\DotNetOnCloud\DotNetOnCloud\obj\Debug\DotNetOnCloud.dll
+c:\documents and settings\153259\my documents\visual studio 2010\Projects\DotNetOnCloud\DotNetOnCloud\obj\Debug\DotNetOnCloud.xml
+c:\documents and settings\153259\my documents\visual studio 2010\Projects\DotNetOnCloud\DotNetOnCloud\obj\Debug\DotNetOnCloud.pdb
