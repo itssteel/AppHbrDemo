@@ -1,5 +1,5 @@
 ﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="~/Site.Master" CodeBehind="Default.aspx.vb" Inherits="DotNetOnCloud._Default" %>
-<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server"
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 <h2>Vocational Training Home Page </h2>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
