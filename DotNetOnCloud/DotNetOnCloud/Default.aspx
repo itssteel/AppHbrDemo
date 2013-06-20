@@ -4,7 +4,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
 <h2>
-        Welcome to Vocational Training for ITS, Tata Steel
+        Welcome to Vocational Training for ITS, Tata Steel!!
     </h2>
     <p>
         To learn more about our organisation visit <a href="http://www.tatasteel.com" title="Tatasteel Website">www.tatasteel.com</a>.
